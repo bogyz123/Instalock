@@ -11,5 +11,8 @@ Instalock is an application written in C# that automates League of Legends Clien
 
 ## Open Source
 
-Instalock is open-source (Form1.cs), you can learn both C# & how LeagueClient works behind the scenes. More features soon to come. Written by Bogdan!
+Instalock is open-source (Form1.cs), you can learn both C# & how LeagueClient works behind the scenes.
 
+More features soon to come.
+
+Written by Bogdan!

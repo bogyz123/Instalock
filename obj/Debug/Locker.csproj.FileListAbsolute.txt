@@ -1,0 +1,13 @@
+C:\Users\tilte\source\repos\Locker\Locker\bin\Debug\Locker.exe.config
+C:\Users\tilte\source\repos\Locker\Locker\bin\Debug\Locker.exe
+C:\Users\tilte\source\repos\Locker\Locker\bin\Debug\Locker.pdb
+C:\Users\tilte\source\repos\Locker\Locker\obj\Debug\Locker.csproj.AssemblyReference.cache
+C:\Users\tilte\source\repos\Locker\Locker\obj\Debug\Locker.Form1.resources
+C:\Users\tilte\source\repos\Locker\Locker\obj\Debug\Locker.Properties.Resources.resources
+C:\Users\tilte\source\repos\Locker\Locker\obj\Debug\Locker.csproj.GenerateResource.cache
+C:\Users\tilte\source\repos\Locker\Locker\obj\Debug\Locker.csproj.CoreCompileInputs.cache
+C:\Users\tilte\source\repos\Locker\Locker\obj\Debug\Locker.exe
+C:\Users\tilte\source\repos\Locker\Locker\obj\Debug\Locker.pdb
+C:\Users\tilte\source\repos\Locker\Locker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tilte\source\repos\Locker\Locker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tilte\source\repos\Locker\Locker\obj\Debug\Locker.csproj.CopyComplete

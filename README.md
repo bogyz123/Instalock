@@ -17,4 +17,3 @@ Instalock is open-source (Form1.cs), you can learn both C# & how LeagueClient wo
 ## Usage
 You can download compiled version by clicking on Releases (Instalock V1.1) and downloading it!
 
-![Alt text](relative%20path/to/sc3.png?raw=true "Title")

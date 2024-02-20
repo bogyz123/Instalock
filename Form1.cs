@@ -494,6 +494,14 @@ namespace Locker
             selectedSpells[1] = null;
             selectedSpellsPanel.Visible = false;
         }
+
+        private async void button4_Click(object sender, EventArgs e)
+        {
+            // Dodges the champ select without closing the client.
+            string endpoint = baseUrl + "lol-login/v1/session/invoke?destination=lcdsServiceProxy&method=call&args=[\"\",\"teambuilder-draft\",\"quitV2\",\"\"]";
+            await SendRequest(HttpMethod.Post, endpoint, null);
+        }
+
     }
 }
 class ChampionData

@@ -31,6 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.open = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button4 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.spellList = new System.Windows.Forms.Panel();
             this.Flash = new System.Windows.Forms.PictureBox();
@@ -82,6 +83,7 @@
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.button4);
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.spellList);
             this.panel1.Controls.Add(this.selectedSpellsPanel);
@@ -98,6 +100,20 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(471, 288);
             this.panel1.TabIndex = 1;
+            // 
+            // button4
+            // 
+            this.button4.BackColor = System.Drawing.Color.Black;
+            this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button4.ForeColor = System.Drawing.Color.Crimson;
+            this.button4.Location = new System.Drawing.Point(74, 256);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(73, 24);
+            this.button4.TabIndex = 26;
+            this.button4.Text = "Dodge";
+            this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button2
             // 
@@ -411,6 +427,7 @@
         private System.Windows.Forms.Panel selectedSpellsPanel;
         private System.Windows.Forms.Panel spellList;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button4;
     }
 }
 
